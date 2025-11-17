@@ -1,0 +1,11 @@
+What exactly is version control for me ?
+
+Version control is a system that helps me track changes in my project files over time.
+It allows me to save different versions of my code, 
+go back to previous stages, 
+and see exactly what was changed and when.
+For me, version control means safety, organization, and teamwork.
+It protects my work from mistakes, keeps my project history clean, and makes collaboration easier 
+by allowing multiple people to work on the same project without losing progress. 
+Tools like Git and GitHub help me manage my project smoothly and maintain a proper 
+development workflow.
