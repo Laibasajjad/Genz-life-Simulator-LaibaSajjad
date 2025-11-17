@@ -170,7 +170,8 @@ quotes = [
     "Keep your face always toward the sunshine—and shadows will fall behind you.",
     "Work hard in silence, let success make the noise.",
     "The secret of getting ahead is getting started. – Mark Twain",
-    "Don’t stop when you’re tired. Stop when you’re done."
+    "Don’t stop when you’re tired. Stop when you’re done.",
+    "Perfection is a myth!"
 ]
 
 # ------------------- MAIN PROGRAM -------------------
