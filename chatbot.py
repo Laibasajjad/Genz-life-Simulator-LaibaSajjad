@@ -131,18 +131,26 @@ stats = {
 # Chatbot responses
 responses = {
     "hi": "hey bestuu 😚😚",
+    "hello": "hey bestie! 👋 how's it going?",
     "how are you": "im vibing, wbu 🤗🤗",
     "how is life going": "well im just a bot here to answer your questions 😄",
     "im happy": "that's great! is there any specific reason you are happy today? 😊",
     "not really": "that's okay, sometimes we do feel that way without any reason 💗",
     "im sad": "aww is there any specific reason because of which you are feeling sad? 🥺",
     "i do not know the real reason": "that's totally normal, sometimes we feel things we can't explain 🤍",
-    "how to change my mood and feel better": "try music, a walk, or talk to someone you trust 💛",
+    "how to change my mood and feel better": "try music, a walk, talking to someone you trust, or journaling 💛",
     "okay thanks": "no need for that, I am always here if you ever need me 💖",
     "play": "OOOOO😁😁....Want to play a GenZ life simulator with me? yes/no 🤗🤗",
     "game": "OOOOO😁😁....Want to play a GenZ life simulator with me? yes/no 🤗🤗",
-    "bye": "aww 😚😚 see you soon, take care bye! 🤗🫂"
+    "bye": "aww 😚😚 see you soon, take care bye! 🤗🫂",
+    "what's up": "Just chilling and chatting with my bestuu 😎",
+    "tell me a joke": "Why don’t skeletons fight each other? They don’t have the guts! 😂",
+    "motivation": "Remember, you are amazing and capable of anything! 💪✨",
+    "thank you": "anytime bestie! 😘",
+    "good morning": "Good morning! ☀️ Ready to slay today? 🫶",
+    "good night": "Sweet dreams bestie! 😴🌙"
 }
+
 
 # List of quotes
 quotes = [
