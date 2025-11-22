@@ -17,6 +17,7 @@ def showMenu():
         print("4. Sleep 💤")
         print("5. Read 📖")
         print("6. Quit Game 🙋‍♀️")
+        print("7. Claim Daily Reward 🎁")
 
         choice = input("Enter your choice (1–6): ")
         print("\nYour stats for choice:")
@@ -42,7 +43,9 @@ def showMenu():
             print("Chatbot: Leaving the game... back to chatting! 🗣")
             print("Your Final Stats:", stats)
             playing = False
-
+        elif choice == "7":
+            claimReward()
+            showStatus()
         else:
             print("Not a valid choice! ☹")
 
@@ -101,6 +104,12 @@ def showQuote():
     print(f"\n📚 Motivational Quote: {quote}\n")
     stats["points"] += 5
     stats["mood"] = "💡"
+
+def claimReward():
+    reward = random.randint(5, 20)
+    stats["points"] += reward
+    stats["mood"] = "💰"
+    print(f"\n🎁 You claimed your daily reward! +{reward} points added!\n")
 
 # End game summary
 def endGame():
